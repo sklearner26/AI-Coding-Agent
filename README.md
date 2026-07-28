@@ -3,15 +3,14 @@
 A focused, framework-agnostic Python agent designed to explore an existing target repository, analyze its structure, create a surgical execution plan, and implement product requirements with minimal user guidance.
 
 Target Application: [callicoder/node-easy-notes-app](https://github.com/callicoder/node-easy-notes-app) (Node.js & Express / Mongoose)  
-Agent Stack: **Python 3.11+**, **Pydantic v2**, **OpenAI API / Groq LLM Provider**
+Agent Stack: **Python 3.12**, **Pydantic v2**, **OpenAI API / Groq LLM Provider**
 
 ---
 
 ## 📹 Screen Recording Deliverable
 
 > [!IMPORTANT]
-> **Demo Recording**: [Click here to watch the 2–3 Minute Video Demonstration on Google Drive](https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID_HERE/view?usp=sharing)
-> *(Replace `YOUR_GOOGLE_DRIVE_FILE_ID_HERE` with your actual Google Drive share link)*
+> **Demo Recording**: [Click here to watch the 2–3 Minute Video Demonstration on Google Drive https://drive.google.com/file/d/1J958ITnA6NySALlI7LTKdfWcooHAXlz0/view?usp=sharing
 
 ---
 
@@ -62,7 +61,7 @@ All prompt templates are centralized in [`prompts.py`](file:///c:/Users/Shreyans
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
-* **Python 3.11+**
+* **Python 3.12**
 * **Git** installed on system path
 
 ### 1. Installation
